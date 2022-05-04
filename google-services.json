@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145726317923",
+    "project_id": "codqaz",
+    "storage_bucket": "codqaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145726317923:android:fd2fc2905d9a38052bdf56",
+        "android_client_info": {
+          "package_name": "com.example.codqaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145726317923-s8erlhan02e014dqnn5nf8eceos49f9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3OnVHlhf7zWLkFu3iVh6iK2WETjvH4Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145726317923-s8erlhan02e014dqnn5nf8eceos49f9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
